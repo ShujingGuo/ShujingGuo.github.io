@@ -3,15 +3,13 @@ layout: archive
 title: "Personal"
 permalink: /personal/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
 
 Self-disclosure
 -----
-* I like sports, lifting and making new friends
-* I like animals especially chinchilla, hamsters and kitties.
-* MBTI: ESFJ :)
-* Here is my [instagram](https://www.instagram.com/liuzheyuan2001/)
+* I have a foundation in strong learning ability, sufficient motivation, good communication skills and pressure resistance. 
+* I like singing, hiking, lifting and making new friends.
+* I like dogs especially golden retrievers and beagles :)
+
