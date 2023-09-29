@@ -8,16 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Zheyuan (Frank) Liu (刘哲源), a first year CS PhD Student studying at the University of Notre Dame, advised by [Prof. Meng Jiang](http://www.meng-jiang.com). My research interest lies in Machine Learning and Deep Learning, Graph Mining, Data-Efficient AI. Currently, I am exploring machine Unlearning and diffential privacy. For my CV, please refer [CV](/cv/).
+Hi, I am Shujing Guo (郭淑婧), a master candidate of Software Engineering at Dalian University of Technology, advised by [Prof. Hong Yu](http://faculty.dlut.edu.cn/2003011105/zh_CN/index.htm). My research interest lies in Deep Learning, Multimodal Learning, Natural Language Processing, Trustworthy AI, and Human-Computer Interaction. Currently, I am exploring Image Captioning. For my CV, please refer [CV](/cv/). For my [Writing Sample](/writing_sample/), please refer [Fusion Transformer for Image Captioning](/writing_sample/)
 
 News
 ======
-* 2023/1/25 Our paper was selected for publication as a regular paper for [WWW](https://www2023.thewebconf.org/) conference!
-* 2023/1/21 Our paper was selected for publication as a regular paper for [ICLR 2023](https://iclr.cc/)!
+* I am now looking for a Ph.D. position. If you are interested in my resume, please contact me!!!
 
-Open to Collaboration
-=====
-Free to email me if you would like to work together!
 
 
 <!-- Getting started
