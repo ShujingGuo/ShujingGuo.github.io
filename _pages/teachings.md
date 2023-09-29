@@ -8,8 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-Teaching Experience
-======
+
 * 03/2022 - 04/2022: Teaching Assistant
   * Undergraduate course: C++ Object-Oriented Programming
   * Supervisor: Professor Hong Yu
