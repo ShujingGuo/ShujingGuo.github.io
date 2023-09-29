@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zheyuan Liu"
+title                    : "Shujing Guo"
 title_separator          : "-"
-name                     : &name "Zheyuan Liu"
+name                     : &name "Shujing Guo"
 description              : &description "personal description"
-url                      : https://franciscoliu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ShujingGuo.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/franciscoliu/franciscoliu.github.io"
+repository               : "https://github.com/ShujingGuo/ShujingGuo.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zheyuan Liu"
-  avatar           : "zheyuanliu_pic.jpg"
-  bio              : "PhD student at University of Notre Dame"
-  location         : "Notre Dame, IN"
+  name             : "Shujing Guo"
+  avatar           : "shujingguo_pic.jpg"
+  bio              : "a master candidate of Software Engineering at Dalian University of Technology"
+  location         : "Dalian, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=awLDYy8AAAAJ&hl=en&authuser=1"
-  email            : zheyuanliu@brandeis.edu
+  googlescholar    : 
+  email            : shujingguo1016@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "franciscoliu"
+  github           : "ShujingGuo"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "zheyuan-liu-371738185"
-  orcid            : "https://orcid.org/0000-0001-7809-4586"
+  linkedin         : 
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
