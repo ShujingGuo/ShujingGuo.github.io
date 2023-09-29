@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Research Experience"
     url: /publications/
 
-  # - title: "Teaching"
-    # url: /teaching/    
+  - title: "Teaching"
+    url: /teaching/    
     
   - title: "CV"
     url: /cv/
     
-  - title: "Services"
-    url: /services/
+  - title: "Honors"
+    url: /honors/
    
   - title: "Personal"
     url: /personal/
