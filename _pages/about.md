@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Shujing Guo (郭淑婧), a master candidate of Software Engineering at Dalian University of Technology, advised by [Prof. Hong Yu](http://faculty.dlut.edu.cn/2003011105/zh_CN/index.htm). My research interest lies in Deep Learning, Multimodal Learning, Natural Language Processing, Trustworthy AI, and Human-Computer Interaction. Currently, I am exploring Image Captioning. For my CV, please refer [CV](/cv/). For my [Writing Sample](/writing_sample/), please refer [Fusion Transformer for Image Captioning](/writing_sample/)
+Hi, I am Shujing Guo (郭淑婧), a master candidate of Software Engineering at Dalian University of Technology, advised by [Prof. Hong Yu](http://faculty.dlut.edu.cn/2003011105/zh_CN/index.htm). My research interest lies in Deep Learning, Multimodal Learning, Natural Language Processing, Trustworthy AI, and Human-Computer Interaction. Currently, I am exploring Image Captioning. For my CV, please refer [CV](/cv/). For my [Writing Sample](/writing_sample/), please refer [Fusion Transformer for Image Captioning](/writing_sample/).
 
 News
 ======
