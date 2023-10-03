@@ -18,5 +18,6 @@ Scholarship & Awards
 * 3rd Price in Mathematics Competition (Non-Mathematics Majors), School level, 2018
 * ACAA China Digital Arts Designer Professional certificate, National level, 2018
 * Excellent Award of the 1st Oracle Cup Web Design Competition of School of Software, College level, 2017
+* Outstanding Certificate of International Vocal Music Examination of Shanghai Conservatory of Music in Highest level, National Level, 2016
 
 
