@@ -7,4 +7,4 @@ author_profile: true
 
 {% include base_path %}
 
-Download my Writing Sample [here](/files/Fusion Transformer for Image Captioning.pdf).
+Download my Writing Sample [Fusion Transformer for Image Captioning](/files/Fusion Transformer for Image Captioning.pdf).
