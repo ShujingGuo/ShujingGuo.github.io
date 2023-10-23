@@ -13,6 +13,6 @@ Linux command, Typescript, UI design, Adobe Photoshop, Microsoft Office (Word, E
 PowerPoint), EndNote, and so on.
 
 * This is the live demo (vedio) of Small Ball Rolling Scoring:
-  ![here](/files/ShujingGuo_CV.pdf).
+  ![here](/files/BallRolling.mp4).
 
 
