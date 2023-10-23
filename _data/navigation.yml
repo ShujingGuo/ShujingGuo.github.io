@@ -17,9 +17,6 @@ main:
 
   - title: "Skills"
     url: /skills/
-
- - title: "Unity 3D demo"
-    url: /unity_demo/
     
   - title: "Personal"
     url: /personal/
