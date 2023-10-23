@@ -13,7 +13,7 @@ Hi, I am Shujing Guo (郭淑婧), a master candidate of Software Engineering at 
 News
 ======
 * I am now looking for a Ph.D. position. If you are interested in my resume, please contact me!!!
-* I recently got a new technical skill >> the interactive development of Unity 3D! I independently completed a small demo (Small Ball Rolling Scoring, xxxxxx). I am now an aggressive novice :)
+* I recently got a new technical skill >> the interactive development of Unity 3D! I independently completed a small demo ([Small Ball Rolling Scoring](https://github.com/ShujingGuo/windowed_BallRolling_byShuingGuo)). I am now an aggressive novice :)
   
 
 
