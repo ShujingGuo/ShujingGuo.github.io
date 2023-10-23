@@ -12,6 +12,6 @@ author_profile: true
 Linux command, Typescript, UI design, Adobe Photoshop, Microsoft Office (Word, Excel, and
 PowerPoint), EndNote, and so on.
 
-* This is the live demo (vedio) of Small Ball Rolling Scoring: 链接
+* This is the live demo (vedio) of Small Ball Rolling Scoring: [here](https://streamja.com/vdmBG). 
 
 
