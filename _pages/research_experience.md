@@ -9,12 +9,12 @@ author_profile: true
 
 Unsupervised Image Captioning
 ======
-* New Idea based on Object-Centric Unsupervised Image Captioning, 04/2023 - Present
-  * Proposed a novel transformer-based network for unsupervised image captioning which utilizes unpaired images and texts to train the model, and can effectively boost the object coverage of input image features.
-  * Mined images from the MS-COCO dataset which not only have the higher similarities to the given sentences but also contain certain objects corresponding to the sentences.
-  * Proposed a feature extension network to expand the few object regions extracted from the mined images and to mimic complete region features extracted from real images’ visual contents.
-  * Fed the expanded region features into the transformer network for generating predicted sentences.
-  * The feature extension network has already been trained and is trying to be embedded in the original network.
+* Unsupervised Image Captioning Method Based on the Extension of Object Features, 04/2023 - 02/2024
+  * Proposed an unsupervised image captioning method based on object feature extension to address the problem of insufficient object features when constructing pseudo image-caption data.
+  * Mined images from the MS-COCO dataset which contain certain objects corresponding to the sentences.
+  * Proposed a novel object feature extension network to expand the original small amount of object features and construct a complete pseudo image feature that matches the given text, effectively enriching the object visual information in the task of unsupervised image captioning.
+  * Fed the expanded object features into the transformer network for generating predicted sentences.
+  * This method effectively improves the quality of the captioning model, enabling it to achieve optimal performance in most evaluation metrics.
 
 Supervised Image Captioning
 ======
