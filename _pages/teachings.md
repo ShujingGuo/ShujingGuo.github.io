@@ -5,7 +5,7 @@ permalink: /teachings/
 author_profile: true
 ---
 
-{% include base_path  
+{% include base_path }  
 
 08/2024 - Present: Teaching Assistant, Illinois Institute of Technology (IIT)
 -----
