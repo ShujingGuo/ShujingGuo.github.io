@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Shujing Guo (郭淑婧), a master candidate of Software Engineering at [Dalian University of Technology (DUT)](https://www.dlut.edu.cn/xxgk/xxjj.htm), advised by [Prof. Hong Yu](http://faculty.dlut.edu.cn/2003011105/zh_CN/index.htm). My research interest lies in Machine Learning, Deep Learning; Multimodal Learning, Image Captioning, Image-based Disease Diagnosis; Data Visualization, Human-AI interactions. Currently, I am exploring Image Captioning. For my CV, please refer [CV](/cv/). For my [paper](/writing_sample/), please refer [Fusion Transformer for Image Captioning](/writing_sample/).
+Hi, I am Shujing Guo (郭淑婧), a PhD student of Computer Science at [Illinois Institute of Technology (IIT)](https://www.iit.edu/computer-science), advised by [Prof. Yan Yan](https://cs.uic.edu/profiles/yan-yan/). My research interest lies in Machine Learning, Deep Learning; Multimodal Learning, Image Captioning; Human-AI interactions. For my CV, please refer [CV](/cv/). For my [paper](/writing_sample/), please refer [Fusion Transformer for Image Captioning](/writing_sample/).
 
 News
 ======
-* I am now looking for a Ph.D. position. If you are interested in my resume, please contact me!!!
 * I recently got a new technical skill >> the interactive development of Unity 3D!
   And I independently completed a small demo ([Small Ball Rolling Scoring](https://github.com/ShujingGuo/windowed_BallRolling_byShuingGuo)). I am now an aggressive novice :)
+* I was admitted to IIT as a PhD student, and this is my first semester in IIT.
+* I am serving as the TA for CS 201-Accelerated Introduction to Computer Science (Java Programming).
+  
   
 
 
