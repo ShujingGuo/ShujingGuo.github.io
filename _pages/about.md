@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Shujing Guo (郭淑婧), a PhD student of Computer Science at [Illinois Institute of Technology (IIT)](https://www.iit.edu/computer-science), advised by [Prof. Yan Yan](https://cs.uic.edu/profiles/yan-yan/). My research interest lies in Machine Learning, Deep Learning; Multimodal Learning, Image Captioning; Human-AI interactions. For my CV, please refer [CV](/cv/). For my [paper](/writing_sample/), please refer to [Fusion Transformer for Image Captioning](/writing_sample/).
+Hi, I am Shujing Guo (郭淑婧) and I come from China. I am now a PhD student of Computer Science at [Illinois Institute of Technology (IIT)](https://www.iit.edu/computer-science), advised by [Prof. Yan Yan](https://cs.uic.edu/profiles/yan-yan/). My research interest lies in Machine Learning, Deep Learning; Multimodal Learning, Image Captioning; Human-AI interactions. For my CV, please refer [CV](/cv/). For my [paper](/writing_sample/), please refer to [Fusion Transformer for Image Captioning](/writing_sample/).
 
 News
 ======
