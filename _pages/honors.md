@@ -9,7 +9,7 @@ author_profile: true
 
 Scholarship & Awards
 ======
-* Postgraduate Scholarship (full tuition fee, 2 times), School level, 2021 - 2022
+* Postgraduate Scholarship (full tuition fee, 3 times), School level, 2021 - 2024
 * Outstanding graduates, School level, 2021
 * Henan University Scholarship (4 times), School level, 2017 - 2021
 * Outstanding Student Scholarship (4 times), School level, 2017 - 2021
