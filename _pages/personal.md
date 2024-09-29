@@ -9,7 +9,8 @@ author_profile: true
 
 Self-disclosure
 -----
-* I have a foundation in strong learning ability, sufficient motivation, good communication skills and pressure resistance. 
-* I like singing, hiking, lifting and making new friends.
+* I have a foundation in positive attitude, strong learning ability, sufficient motivation, and pressure resistance. 
+* I like singing, hiking and making new friends.
 * I like dogs especially golden retrievers and beagles :)
+* I also like cats, they are so individual and arrogant :)
 
